@@ -10,3 +10,4 @@ VIO based AGV location and navigation control system.
 6. Navigate points generate
 7. Trajectory generation
 8. agv driving control
+9. monocular dense mapping module that conditions on the estimated pose
